@@ -1,6 +1,7 @@
 # Enhanced Control Checker GBA
 
-![enhancedcontrolchecker-0](https://github.com/user-attachments/assets/5741c859-222b-43eb-97e3-adf6d85a34dd)
+![Untitled-1](https://github.com/user-attachments/assets/517787f6-3ac9-4c32-8307-d95ca6005ae6)
+
 
 a button test rom for the Game Boy Advance. Heavily inspired by Orangeglo's Better Button Test for the GB (which is superior to this) I just needed a rom to test the L and R buttons.
 
